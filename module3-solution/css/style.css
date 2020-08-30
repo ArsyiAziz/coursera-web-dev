@@ -28,7 +28,9 @@ button.navbar-toggle {
     color: #000000;
 }
 /*END OF HEADER*/
-
+.section-title {
+    padding-top: 15px;
+}
 section {
     background-color: #c5c5c5e3;
     padding: 0px 15px 15px; 
