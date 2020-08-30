@@ -29,15 +29,15 @@ button.navbar-toggle {
 }
 /*END OF HEADER*/
 
-/*BODY*/
-section h3 {
-    padding: 10px 0;
-}
 section {
     background-color: #c5c5c5e3;
     padding: 0px 15px 15px; 
     color: #202020e3;
 
+}
+#main-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 /*END OF BODY*/
 
